@@ -21,13 +21,11 @@ a {
 .logo {
     font-size: 24px;
     margin-top: 10px;
-    margin-left: 460px;
 }
 
 .header-links {
     display: flex;
     gap: 15px;
-    margin-right: 460px;
 }
 
 h1 {
@@ -83,8 +81,37 @@ img {
     text-align: center;
     font-size: 36px;
     font-weight: bolder;
+    color: #1F2937;
 }
 
 * {
     font-family: sans-serif;
 }
+
+.image {
+    border: 3px solid rgb(39, 122, 247);
+    border-radius: 8px;
+    width: 160px;
+    height: 160px;
+}
+
+.content2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.descript {
+    text-align: center;
+}
+
+.main-content2 {
+    padding: 20px;
+}
+
+.items {
+    width: 170px;
+}
+
