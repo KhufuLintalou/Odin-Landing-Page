@@ -115,3 +115,36 @@ img {
     width: 170px;
 }
 
+.section2 {
+    padding-bottom: 80px;
+}
+
+.section3 {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    width: 900px;
+    margin-bottom: 0;
+}
+
+.main-content3 {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-source {
+    text-align: end;
+    margin: 0;
+}
+
+.quote {
+    width: 870px;
+}
